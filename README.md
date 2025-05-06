@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Fachrian
-- 👀 I’m interested in software development and data science
+- 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning Informatics at Sriwijaya University
 - 😄 Pronouns: umm, any? 
 - ⚡ Fun fact: I'm cute :p
